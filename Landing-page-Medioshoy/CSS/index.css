@@ -1,0 +1,12 @@
+@import "./navbar.css";
+@import "./section-description.css";
+
+:root{
+    --Gray: #D0D0D0;
+    --red: #CD1818; 
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
