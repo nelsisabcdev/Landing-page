@@ -1,0 +1,30 @@
+@import "./header.css";
+@import "./wrapper.css";
+@import "./main.css";
+@import "./hero.css";
+@import "./medios.css";
+
+:root {
+--color-text: #f73030;
+--bg: #000000;
+--font: system-ui;
+--gray: #292929; 
+--grisfuerte:#252525;
+--white: #ffffff; 
+--brown: #5f1b1bdc;
+
+}
+
+*{
+margin: 0;
+box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth; 
+}
+
+body{
+    font-family: var(--font);
+    
+}

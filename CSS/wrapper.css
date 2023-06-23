@@ -1,0 +1,7 @@
+.wrapper{
+   max-inline-size: 1280px; 
+   padding: 0px 1px 1px 50px;
+   margin: 0px;
+   background-color: var(--bg);
+}
+
